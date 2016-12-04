@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.9.2",
-    "uniqCompNum": 35,
+    "uniqCompNum": 36,
     "versionPublish": "3.9.2",
     "publishType": "github",
     "favicon": "@PROJECT_PATH@/assets/images/normanconnors-closeup-128x85-55.jpg",
@@ -33,7 +33,7 @@
       "settings": {
         "main": true,
         "title": "Norman Connors 40TH Anniversary",
-        "meta_descr": "Norman Connors Electronic Press Kit (EPK) for bookings for his 40th celebration, Starship Orchesta, You are my Starship, Michael Henderson, Phyllis Hyman, Jean Crae, Bobby Lyle, Buddha Records, Arista Records",
+        "meta_descr": "Norman Connors Electronic Press Kit (EPK) for bookings for his 40th Plus  celebration, Starship Orchesta, You are my Starship, Michael Henderson, Phyllis Hyman, Jean Crae, Bobby Lyle, Buddha Records, Arista Records",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -280,6 +280,22 @@
             "overlayColor": "#444444"
           },
           "text": "<p><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\">   2016 Durant Mangement Corporation &nbsp; All Rights Reserved</a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a></p>"
+        },
+        {
+          "_inherit": "soundcloud1",
+          "alias": "soundcloud",
+          "_tags": [
+            "Extension"
+          ],
+          "soundURL": "url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F234652184",
+          "_name": "soundcloud2",
+          "_anchor": "soundcloud2-z",
+          "_params": {
+            "sound": "https://soundcloud.com/durant-management/you-are-my-starship",
+            "autoplay": true,
+            "fullWidth": true
+          },
+          "iframeSRC": "https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F234652184&amp;auto_play=true&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"
         }
       ]
     },
