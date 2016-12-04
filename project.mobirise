@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "biography.html",
+    "currentPage": "index.html",
     "name": "Norman Connors 40 Plus",
     "theme": {
       "name": "mobirise3",
@@ -285,30 +285,6 @@
             "overlayColor": "#444444"
           },
           "text": "<p><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\">&nbsp;Durant Mangement Corporation &nbsp; All Rights Reserved</a>&nbsp;&nbsp;USA 310 - 281 - 3321<a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a></p>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image1",
-          "_anchor": "image1-10",
-          "media": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/image1.jpg",
-              "width": 1400
-            },
-            "video": {
-              "src": "http://ytcropper.com/cropped/Xe58447bc75ad90",
-              "autoplay": "on",
-              "loop": false,
-              "active": true,
-              "aspectratio": "4:3"
-            }
-          },
-          "_params": {
-            "showText": true
-          },
-          "text": "YOU ARE MY STARSHIP FEATURING MICHAEL HENDERSON"
         }
       ]
     },
