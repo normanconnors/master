@@ -504,7 +504,12 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "<p><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\">   2016 Durant Mangement Corporation &nbsp; All Rights Reserved</a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a></p>"
+          "text": "<p><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\">&nbsp;Durant Mangement Corporation &nbsp; All Rights Reserved</a>&nbsp;&nbsp;USA 310 - 281 - 3321<a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a></p>",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          }
         }
       ]
     },
@@ -816,7 +821,12 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "<p><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\">   2016 Durant Mangement Corporation &nbsp; All Rights Reserved</a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a></p>"
+          "text": "<p><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\">&nbsp;Durant Mangement Corporation &nbsp; All Rights Reserved</a>&nbsp;&nbsp;USA 310 - 281 - 3321<a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a></p>",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          }
         },
         {
           "_tags": [
@@ -1020,7 +1030,12 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "<p><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\">   2016 Durant Mangement Corporation &nbsp; All Rights Reserved</a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a></p>"
+          "text": "<p><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\">&nbsp;Durant Mangement Corporation &nbsp; All Rights Reserved</a>&nbsp;&nbsp;USA 310 - 281 - 3321<a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a></p>",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          }
         }
       ]
     }
