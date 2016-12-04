@@ -705,14 +705,15 @@ h6,
   font-family: 'Open Sans', sans-serif;
 }
 #header3-c H3 {
-  font-family: 'Droid Sans', sans-serif;
-  font-size: 16px;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 20px;
 }
 #header3-c B {
   font-family: 'Open Sans', sans-serif;
 }
 #header3-c SPAN {
   font-family: 'Open Sans', sans-serif;
+  text-align: center;
 }
 #footer1-r P {
   color: #ffffff;

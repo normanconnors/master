@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "biography.html",
+    "currentPage": "index.html",
     "name": "Norman Connors 40 Plus",
     "theme": {
       "name": "mobirise3",
@@ -298,10 +298,11 @@
               "width": 1400
             },
             "video": {
-              "src": "https://www.youtube.com/watch?v=LgRrhboxWh0",
+              "src": "http://ytcropper.com/cropped/Xe58447bc75ad90",
               "autoplay": "on",
               "loop": false,
-              "active": true
+              "active": true,
+              "aspectratio": "4:3"
             }
           },
           "_params": {
@@ -776,9 +777,9 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             },
             "H3": {
-              "font-family": "'Droid Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700",
-              "font-size": "16px"
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "20px"
             },
             "B": {
               "font-family": "'Open Sans', sans-serif",
@@ -786,7 +787,8 @@
             },
             "SPAN": {
               "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "text-align": "center"
             }
           },
           "_tags": [
@@ -800,8 +802,8 @@
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "Discography<br><span style=\"font-weight: normal;\">With over 40 years of great music and an undeniable smooth appeal that only Norman Connors delivers while working with some of the best voices in music history. Norman Connors has inspired generations and countless fans to love, live, and enjoy music like no one else.</span>",
-          "meta": "<b>(As Leader)</b><br>Dance of Magic (Cobblestone, 1973)<br>Dark of Light (Buddah, 1973)<br>Love from the Sun (Buddah, 1974)<br>Slewfoot (Buddah, 1974)<br>Live at Nemu Jazz Inn - 1 (Nippon Columbia/Cobblestone, 1975)<br>Saturday Night Special (Buddah, 1975)<br>You Are My Starship (Buddah, 1976)<br>Romantic Journey (Buddah, 1977)<br>This Is Your Life (Buddah/Arista, 1978)<br>Invitation (Buddah/Arista, 1979)<br>Take it to the Limit (Arista, 1980)<br>Mr.C (Arista, 1981)<br>Passion (Capitol Records, 1988)<br>Remember Who You Are (MoJazz, 1993)<br>Easy Living (Motown, 1996)<br>Eternity (Starship, 2000)<br>Star Power (Shanachie, 2009)<br><br><b>As sideman</b><br><b>With Sam Rivers</b><br><br>Streams (Impulse!, 1973)<br>Hues (Impulse!, 1973)<br><br><b>With Pharoah Sanders<br></b><br>Live at the East (Impulse!, 1972)<br>Village of the Pharoahs (Impulse!, 1973)<br>Love in Us All (Impulse!, 1972–73)<br>Love Will Find a Way (Arista, 1978)<br>"
+          "title": "Discography<br><br><br><span style=\"font-weight: normal;\">With over 40 Plus &nbsp;years of great music and an undeniable smooth appeal that only Norman Connors delivers while working with some of the best voices in music history. Norman Connors has inspired generations and countless fans to love, live, and enjoy music like no one else.</span><br><span style=\"font-weight: normal;\"><br></span><br><span style=\"font-weight: normal;\"><br></span>",
+          "meta": "<b>(As Leader)</b><br><b><br></b><br>Dance of Magic (Cobblestone, 1973)<br>Dark of Light (Buddah, 1973)<br>Love from the Sun (Buddah, 1974)<br>Slewfoot (Buddah, 1974)<br>Live at Nemu Jazz Inn - 1 (Nippon Columbia/Cobblestone, 1975)<br>Saturday Night Special (Buddah, 1975)<br>You Are My Starship (Buddah, 1976)<br>Romantic Journey (Buddah, 1977)<br>This Is Your Life (Buddah/Arista, 1978)<br>Invitation (Buddah/Arista, 1979)<br>Take it to the Limit (Arista, 1980)<br>Mr.C (Arista, 1981)<br>Passion (Capitol Records, 1988)<br>Remember Who You Are (MoJazz, 1993)<br>Easy Living (Motown, 1996)<br>Eternity (Starship, 2000)<br>Star Power (Shanachie, 2009)<br>Royalty (2017)<br><br><b>As sideman</b><br><b>With Sam Rivers</b><br><br>Streams (Impulse!, 1973)<br>Hues (Impulse!, 1973)<br><br><b>With Pharoah Sanders<br></b><br>Live at the East (Impulse!, 1972)<br>Village of the Pharoahs (Impulse!, 1973)<br>Love in Us All (Impulse!, 1972–73)<br>Love Will Find a Way (Arista, 1978)<br>"
         },
         {
           "_tags": [
