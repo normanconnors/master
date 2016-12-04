@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Booking.html",
+    "currentPage": "biography.html",
     "name": "Norman Connors 40 Plus",
     "theme": {
       "name": "mobirise3",
@@ -266,6 +266,11 @@
             "Theme"
           ],
           "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "footer1-r",
           "_params": {
             "paddingTop": "2",
@@ -279,12 +284,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "<p><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\">&nbsp;Durant Mangement Corporation &nbsp; All Rights Reserved</a>&nbsp;&nbsp;USA 310 - 281 - 3321<a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a></p>",
-          "_styles": {
-            "P": {
-              "color": "#ffffff"
-            }
-          }
+          "text": "<p><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\">&nbsp;Durant Mangement Corporation &nbsp; All Rights Reserved</a>&nbsp;&nbsp;USA 310 - 281 - 3321<a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a></p>"
         },
         {
           "_tags": [
@@ -446,7 +446,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/this-is-your-life-nc-2000x1975-70.jpg",
-            "bgColor": "#2e2e2e",
+            "bgColor": "#c1c1c1",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -492,6 +492,11 @@
             "Theme"
           ],
           "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "footer1-r",
           "_params": {
             "paddingTop": "2",
@@ -505,12 +510,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "<p><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\">&nbsp;Durant Mangement Corporation &nbsp; All Rights Reserved</a>&nbsp;&nbsp;USA 310 - 281 - 3321<a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a></p>",
-          "_styles": {
-            "P": {
-              "color": "#ffffff"
-            }
-          }
+          "text": "<p><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\">&nbsp;Durant Mangement Corporation &nbsp; All Rights Reserved</a>&nbsp;&nbsp;USA 310 - 281 - 3321<a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a></p>"
         }
       ]
     },
@@ -810,6 +810,11 @@
             "Theme"
           ],
           "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "footer1-r",
           "_params": {
             "paddingTop": "2",
@@ -823,12 +828,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "<p><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\">&nbsp;Durant Mangement Corporation &nbsp; All Rights Reserved</a>&nbsp;&nbsp;USA 310 - 281 - 3321<a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a></p>",
-          "_styles": {
-            "P": {
-              "color": "#ffffff"
-            }
-          }
+          "text": "<p><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\">&nbsp;Durant Mangement Corporation &nbsp; All Rights Reserved</a>&nbsp;&nbsp;USA 310 - 281 - 3321<a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a></p>"
         },
         {
           "_tags": [
@@ -1019,6 +1019,11 @@
             "Theme"
           ],
           "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "footer1-r",
           "_params": {
             "paddingTop": "2",
@@ -1032,12 +1037,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "<p><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\">&nbsp;Durant Mangement Corporation &nbsp; All Rights Reserved</a>&nbsp;&nbsp;USA 310 - 281 - 3321<a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a></p>",
-          "_styles": {
-            "P": {
-              "color": "#ffffff"
-            }
-          }
+          "text": "<p><a href=\"http://www.dmcbusiness.com/\" target=\"_blank\">&nbsp;Durant Mangement Corporation &nbsp; All Rights Reserved</a>&nbsp;&nbsp;USA 310 - 281 - 3321<a href=\"http://www.dmcbusiness.com/\" target=\"_blank\"></a></p>"
         }
       ]
     }
